@@ -1,7 +1,10 @@
 <h3 align="center">Hi 👋, I'm Ozge Kilic</h3>
 <h3 align="center">Junior Full-Stack Web Developer</h3>
-# 💫 About Me:
- :telescope: I’m currently working on [StudyBuddy](www.mystuddybuddy.me)🌱 I’m currently improving my Ruby and JavaScript skills<br><br> :telescope: Check my AirBnb clone [RoboPol](https://robopal-728743dc042a.herokuapp.com/)📫 How to reach me ozgeklc096@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1lfODOM2IW7UcdvD4weLttY5_z2_Rlw62/view?usp=sharing
+ 💫 About Me:
+ :telescope: I’m currently working on [StudyBuddy](www.mystuddybuddy.me)
+ 🌱 I’m currently improving my Ruby and JavaScript skills<br><br> :telescope: Check my AirBnb clone [RoboPol](https://robopal-728743dc042a.herokuapp.com/)
+ 📫 How to reach me ozgeklc096@gmail.com<br><br>
+ 📄 Know about my experiences https://drive.google.com/file/d/1lfODOM2IW7UcdvD4weLttY5_z2_Rlw62/view?usp=sharing
 
 
 ## 🌐 Socials:
