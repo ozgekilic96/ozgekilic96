@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ozge Kilic</h1>
+<h3 align="center">Hi 👋, I'm Ozge Kilic</h3>
 <h3 align="center">Junior Full-Stack Web Developer</h3>
 
 - 🔭 I’m currently working on [StudyBuddy](www.mystuddybuddy.me)
