@@ -1,7 +1,7 @@
 <h3 align="center">Hi 👋, I'm Ozge Kilic</h3>
 <h3 align="center">Junior Full-Stack Web Developer</h3>
  # 💫 About Me:<br><br>
-🌱 I’m currently improving my Ruby and JavaScript skills<br><br> 🔭 Check my study app <a href="www.mystuddybuddy.me">StudyBuddy</a><br><br>🔭 Check my AirBnb clone <a href="https://robopal-728743dc042a.herokuapp.com/">RoboPal</a><br><br>📫 How to reach me ozgeklc096@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1qprTAYLusAThlpJ4do2z4Ie4xmLmGOuR/view?usp=sharing
+🌱 I’m currently improving my Ruby and JavaScript skills<br><br> 🔭 Check my study app <a href="[www.mystuddybuddy.me](http://www.mystuddybuddy.me/)">StudyBuddy</a><br><br>🔭 Check my AirBnb clone <a href="https://robopal-728743dc042a.herokuapp.com/">RoboPal</a><br><br>📫 How to reach me ozgeklc096@gmail.com<br><br>📄 Know about my experiences https://drive.google.com/file/d/1qprTAYLusAThlpJ4do2z4Ie4xmLmGOuR/view?usp=sharing
 
 
 ## 🌐 Socials:
